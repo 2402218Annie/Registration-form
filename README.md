@@ -1,4 +1,4 @@
-Registration form
+Registration project
 My HTML and CSS registration form
 <!DOCTYPE html>
 <html>
