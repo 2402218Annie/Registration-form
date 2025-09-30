@@ -1,6 +1,7 @@
-Registration project
+[index2.html](https://github.com/user-attachments/files/22618898/index2.html)Registration project
 My HTML and CSS registration form
-<!DOCTYPE html>
+
+[Uploadin<!DOCTYPE html>
 <html>
     <head>
         <title>E-commerce Registration Form</title>
@@ -43,5 +44,4 @@ My HTML and CSS registration form
             </form>
         </div>
     </body>
-</html>
-[Uploading registration.html…]()
+</html>g index2.html…]()
